@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jun 15 14:49:42 CST 2020
+mybatis-code-generator-1.0-SNAPSHOT.jar>=
+mybatis-code-generator-1.0-SNAPSHOT.pom>=
+mybatis-code-generator-1.0-SNAPSHOT-sources.jar>=
+mybatis-code-generator-1.0-20200610.112803-9.jar>nexus=
+mybatis-code-generator-1.0-20200610.112803-9.pom>nexus=
